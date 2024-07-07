@@ -8,26 +8,47 @@ In this document, we explore a dataset designed for association rules mining, a 
 Our dataset unfolds as a rich tapestry of distinct columns, each dedicated to representing a specific item:
 
 Bread
+
 Honey
+
 Bacon
+
 Toothpaste
+
 Banana
+
 Apple
+
 Hazelnut
+
 Cheese
+
 Meat
+
 Carrot
+
 Cucumber
+
 Onion
+
 Milk
+
 Butter
+
 ShavingFoam
+
 Salt
+
 Flour
+
 HeavyCream
+
 Egg
+
 Olive
+
 Shampoo
+
 Sugar
 
  Purpose of the Dataset
