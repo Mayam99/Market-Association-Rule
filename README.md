@@ -51,7 +51,7 @@ Shampoo
 
 Sugar
 
- Purpose of the Dataset
+ 3. Purpose of the Dataset
 The purpose of this dataset is to uncover complex associations and patterns hidden within the network of customer transactions. Each row in the dataset represents a single transaction, and the values in each column indicate whether a particular item was included in the transaction or not.
 
 4. Data Format
